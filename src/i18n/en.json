@@ -1,0 +1,348 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "pricing": "Pricing",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "AI-Powered SaaS Solutions",
+    "title": "Building the Future of",
+    "titleHighlight": "Intelligent Software",
+    "subtitle": "Holoul AI develops cutting-edge SaaS products powered by artificial intelligence, serving legal, real estate, and sports industries across the MENA region.",
+    "cta": "Explore Our Products",
+    "ctaSecondary": "Get in Touch"
+  },
+  "stats": {
+    "products": "AI Products",
+    "countries": "Countries Served",
+    "users": "Active Users",
+    "uptime": "Uptime"
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Intelligent solutions built for industries that matter",
+    "viewAll": "View All Products",
+    "learnMore": "Learn More",
+    "visitProduct": "Visit Product",
+    "comingSoon": "Coming Soon",
+    "live": "Live",
+    "overview": "Products Overview",
+    "overviewSubtitle": "Discover our suite of AI-powered SaaS products designed to transform industries across the MENA region.",
+    "myzan": {
+      "name": "Myzan AI",
+      "tagline": "AI-Powered Legal Intelligence",
+      "description": "The most comprehensive AI legal assistant for the MENA region. Access legislation, jurisprudence, and legal analysis across 12+ Arab countries.",
+      "features": {
+        "title": "Key Features",
+        "f1": "AI Legal Chat — Ask legal questions in Arabic, English, or French",
+        "f2": "Legislation Database — 50,000+ laws across 12 Arab countries",
+        "f3": "Jurisprudence Search — Court decisions and case law analysis",
+        "f4": "Document Drafting — AI-assisted legal document generation",
+        "f5": "Multi-jurisdiction — Compare laws across different countries",
+        "f6": "Daily Updates — New legislation added continuously"
+      },
+      "coverage": "Coverage",
+      "coverageDesc": "Comprehensive legal databases across Morocco, Saudi Arabia, UAE, Egypt, Kuwait, Qatar, Bahrain, Oman, Jordan, Tunisia, Algeria, and Libya.",
+      "stats": {
+        "laws": "50,000+ Laws",
+        "countries": "12+ Countries",
+        "languages": "3 Languages"
+      },
+      "cta": "Visit Myzan AI"
+    },
+    "rawasi": {
+      "name": "Rawasi AI",
+      "tagline": "AI-Powered Real Estate Intelligence",
+      "description": "Smart real estate analytics and market intelligence for the MENA property market. Data-driven insights for investors, developers, and agents.",
+      "features": {
+        "title": "Planned Features",
+        "f1": "Market Analytics — Real-time property market data and trends",
+        "f2": "Price Prediction — AI-powered property valuation models",
+        "f3": "Investment Scoring — Risk-adjusted return analysis",
+        "f4": "Market Reports — Automated market intelligence reports",
+        "f5": "Portfolio Management — Track and optimize property portfolios",
+        "f6": "Regulatory Compliance — Stay updated on property regulations"
+      },
+      "stats": {
+        "markets": "6+ Markets",
+        "dataPoints": "1M+ Data Points",
+        "accuracy": "95% Accuracy"
+      },
+      "cta": "Coming Soon"
+    },
+    "tactiq": {
+      "name": "TACTIQ",
+      "tagline": "AI-Powered Football Intelligence",
+      "description": "Advanced football analytics platform combining AI with tactical analysis. Performance tracking, match prediction, and scouting intelligence.",
+      "features": {
+        "title": "Planned Features",
+        "f1": "Match Analysis — AI-powered tactical breakdown of matches",
+        "f2": "Player Scouting — Data-driven player evaluation and comparison",
+        "f3": "Performance Tracking — Real-time player and team metrics",
+        "f4": "Prediction Engine — Match outcome and score predictions",
+        "f5": "Tactical Board — Interactive formation and strategy planning",
+        "f6": "League Analytics — Comprehensive league and tournament data"
+      },
+      "stats": {
+        "leagues": "20+ Leagues",
+        "players": "100K+ Players",
+        "matches": "50K+ Matches"
+      },
+      "cta": "Coming Soon"
+    }
+  },
+  "mission": {
+    "title": "Our Mission",
+    "text": "To democratize access to AI-powered tools across the MENA region, making professional-grade intelligence accessible to everyone."
+  },
+  "about": {
+    "title": "About Holoul AI",
+    "subtitle": "Pioneering AI solutions for the MENA region",
+    "story": {
+      "title": "Our Story",
+      "p1": "Holoul AI (حلول AI — meaning 'Solutions AI' in Arabic) was founded in 2024 in Casablanca, Morocco, with a clear mission: to build intelligent software products that serve the unique needs of the Arabic-speaking world.",
+      "p2": "We recognized that many industries in the MENA region lacked access to AI-powered tools designed for their specific legal frameworks, languages, and business practices. Our team set out to change that.",
+      "p3": "Starting with Myzan AI — our flagship legal intelligence platform — we've proven that world-class AI products can be built for and from the MENA region. Now we're expanding into real estate with Rawasi AI and sports analytics with TACTIQ."
+    },
+    "values": {
+      "title": "Our Values",
+      "v1": { "title": "Innovation", "desc": "We push the boundaries of what AI can do for underserved markets." },
+      "v2": { "title": "Accessibility", "desc": "Professional-grade tools should be available to everyone, not just large corporations." },
+      "v3": { "title": "Localization", "desc": "We build products in Arabic first, respecting cultural and linguistic nuances." },
+      "v4": { "title": "Integrity", "desc": "We handle sensitive data with the utmost care and transparency." }
+    },
+    "company": {
+      "title": "Company Information",
+      "name": "Holoul AI SARL",
+      "location": "Casablanca, Morocco",
+      "founded": "Founded in 2024",
+      "email": "contact@holoul.ai"
+    }
+  },
+  "pricing": {
+    "title": "Pricing",
+    "subtitle": "Transparent pricing for all our products",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "save": "Save 20%",
+    "perMonth": "/month",
+    "perYear": "/year",
+    "getStarted": "Get Started",
+    "currentPlan": "Current Plan",
+    "popular": "Most Popular",
+    "myzan": {
+      "free": {
+        "name": "Free",
+        "price": "0",
+        "desc": "Explore the platform",
+        "f1": "5 AI queries per day",
+        "f2": "Basic legislation search",
+        "f3": "1 country database",
+        "f4": "Community support"
+      },
+      "pro": {
+        "name": "Professional",
+        "price": "29",
+        "priceYearly": "278",
+        "desc": "For practicing lawyers",
+        "f1": "Unlimited AI queries",
+        "f2": "Full legislation database",
+        "f3": "All 12+ countries",
+        "f4": "Jurisprudence access",
+        "f5": "Document drafting",
+        "f6": "Priority support"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "Custom",
+        "desc": "For law firms & organizations",
+        "f1": "Everything in Professional",
+        "f2": "Custom integrations",
+        "f3": "Dedicated account manager",
+        "f4": "SLA guarantee",
+        "f5": "Team management",
+        "f6": "API access"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": { "q": "Do you offer a free trial?", "a": "Yes! Myzan AI offers a 14-day free trial on the Professional plan. No credit card required." },
+      "q2": { "q": "What payment methods do you accept?", "a": "We accept all major credit cards, PayPal, and bank transfers for Enterprise plans." },
+      "q3": { "q": "Can I cancel anytime?", "a": "Absolutely. You can cancel your subscription at any time. See our refund policy for details." },
+      "q4": { "q": "Do you offer discounts for annual billing?", "a": "Yes, annual billing saves you 20% compared to monthly billing." },
+      "q5": { "q": "Is there a student or academic discount?", "a": "Yes, we offer 50% off for verified students and academic institutions. Contact us for details." }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "subject": "Subject",
+      "message": "Your Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully! We'll get back to you soon.",
+      "subjects": {
+        "general": "General Inquiry",
+        "sales": "Sales & Pricing",
+        "support": "Technical Support",
+        "partnership": "Partnership",
+        "press": "Press & Media"
+      }
+    },
+    "info": {
+      "title": "Get in Touch",
+      "email": "Email",
+      "address": "Address",
+      "addressValue": "Casablanca, Morocco",
+      "hours": "Business Hours",
+      "hoursValue": "Monday - Friday, 9:00 AM - 6:00 PM (GMT+1)"
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: March 2026",
+    "sections": {
+      "s1": {
+        "title": "1. Acceptance of Terms",
+        "content": "By accessing or using any services provided by Holoul AI SARL ('Company', 'we', 'us'), including Myzan AI, Rawasi AI, and TACTIQ (collectively, 'Services'), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our Services."
+      },
+      "s2": {
+        "title": "2. Description of Services",
+        "content": "Holoul AI provides AI-powered software-as-a-service (SaaS) products:\n\n• Myzan AI: Legal intelligence and research platform\n• Rawasi AI: Real estate market intelligence platform\n• TACTIQ: Football analytics and intelligence platform\n\nServices are provided on a subscription basis and may include free tiers with limited functionality."
+      },
+      "s3": {
+        "title": "3. User Accounts",
+        "content": "You must provide accurate and complete information when creating an account. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. You must be at least 18 years old to use our Services."
+      },
+      "s4": {
+        "title": "4. Payment Terms",
+        "content": "Paid subscriptions are billed in advance on a monthly or annual basis. All fees are non-refundable except as specified in our Refund Policy. We reserve the right to change pricing with 30 days' notice. Payment processing is handled by our authorized payment partners."
+      },
+      "s5": {
+        "title": "5. Acceptable Use",
+        "content": "You agree not to: (a) use the Services for any unlawful purpose; (b) attempt to gain unauthorized access to our systems; (c) reproduce, distribute, or create derivative works from our content; (d) use automated systems to access the Services beyond normal usage; (e) share account credentials with third parties."
+      },
+      "s6": {
+        "title": "6. Intellectual Property",
+        "content": "All content, features, and functionality of our Services are owned by Holoul AI SARL and are protected by international copyright, trademark, and other intellectual property laws. Our AI-generated outputs are provided for informational purposes and should not be considered professional advice."
+      },
+      "s7": {
+        "title": "7. Limitation of Liability",
+        "content": "To the maximum extent permitted by law, Holoul AI shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of the Services. Our total liability shall not exceed the amount paid by you in the 12 months preceding the claim."
+      },
+      "s8": {
+        "title": "8. Termination",
+        "content": "We may terminate or suspend your account at any time for violation of these Terms. You may cancel your account at any time through your account settings. Upon termination, your right to use the Services will cease immediately."
+      },
+      "s9": {
+        "title": "9. Governing Law",
+        "content": "These Terms shall be governed by and construed in accordance with the laws of the Kingdom of Morocco. Any disputes shall be subject to the exclusive jurisdiction of the courts of Casablanca, Morocco."
+      },
+      "s10": {
+        "title": "10. Contact",
+        "content": "For questions about these Terms, contact us at: contact@holoul.ai\n\nHoloul AI SARL\nCasablanca, Morocco"
+      }
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: March 2026",
+    "sections": {
+      "s1": {
+        "title": "1. Information We Collect",
+        "content": "We collect information you provide directly: name, email address, payment information, and usage data. We also collect technical data including IP address, browser type, device information, and cookies for analytics and service improvement."
+      },
+      "s2": {
+        "title": "2. How We Use Your Information",
+        "content": "We use collected information to: provide and maintain our Services; process payments; send service updates and marketing communications (with consent); improve our products; comply with legal obligations; and prevent fraud."
+      },
+      "s3": {
+        "title": "3. Data Storage and Security",
+        "content": "Your data is stored on secure servers with encryption at rest and in transit. We implement industry-standard security measures including SSL/TLS encryption, access controls, and regular security audits. We retain your data for as long as your account is active or as needed to provide Services."
+      },
+      "s4": {
+        "title": "4. Data Sharing",
+        "content": "We do not sell your personal data. We may share data with: payment processors (for transactions); cloud infrastructure providers (for hosting); analytics services (aggregated, anonymized data); and law enforcement (when legally required)."
+      },
+      "s5": {
+        "title": "5. Your Rights",
+        "content": "You have the right to: access your personal data; correct inaccurate data; request deletion of your data; export your data in a portable format; opt out of marketing communications; and withdraw consent at any time. To exercise these rights, contact us at contact@holoul.ai."
+      },
+      "s6": {
+        "title": "6. Cookies",
+        "content": "We use essential cookies for authentication and preferences, and optional analytics cookies to improve our Services. You can manage cookie preferences through your browser settings."
+      },
+      "s7": {
+        "title": "7. International Data Transfers",
+        "content": "Your data may be transferred to and processed in countries outside your country of residence. We ensure appropriate safeguards are in place for all international data transfers."
+      },
+      "s8": {
+        "title": "8. Children's Privacy",
+        "content": "Our Services are not intended for users under 18 years of age. We do not knowingly collect personal information from children."
+      },
+      "s9": {
+        "title": "9. Changes to This Policy",
+        "content": "We may update this Privacy Policy from time to time. We will notify you of significant changes via email or through our Services. Continued use after changes constitutes acceptance."
+      },
+      "s10": {
+        "title": "10. Contact",
+        "content": "For privacy-related inquiries, contact our Data Protection Officer at: contact@holoul.ai\n\nHoloul AI SARL\nCasablanca, Morocco"
+      }
+    }
+  },
+  "refund": {
+    "title": "Refund Policy",
+    "lastUpdated": "Last updated: March 2026",
+    "sections": {
+      "s1": {
+        "title": "1. Free Trial",
+        "content": "All new users are eligible for a 14-day free trial of our Professional plans. No credit card is required to start a trial. At the end of the trial period, you will be asked to subscribe to continue using premium features."
+      },
+      "s2": {
+        "title": "2. Monthly Subscriptions",
+        "content": "For monthly subscriptions, you may request a full refund within 7 days of your initial purchase or renewal. After 7 days, no refund will be issued for the current billing period, but you may cancel to prevent future charges."
+      },
+      "s3": {
+        "title": "3. Annual Subscriptions",
+        "content": "For annual subscriptions, you may request a full refund within 30 days of your initial purchase. After 30 days, we will provide a prorated refund for the remaining unused months upon request."
+      },
+      "s4": {
+        "title": "4. How to Request a Refund",
+        "content": "To request a refund, contact us at contact@holoul.ai with your account email and reason for the refund. We aim to process all refund requests within 5-10 business days."
+      },
+      "s5": {
+        "title": "5. Exceptions",
+        "content": "Refunds will not be issued in cases of: violation of our Terms of Service; fraudulent activity; abuse of the refund policy (e.g., repeated subscriptions and cancellations); or chargebacks initiated without first contacting us."
+      },
+      "s6": {
+        "title": "6. Contact",
+        "content": "For refund inquiries, contact us at: contact@holoul.ai\n\nHoloul AI SARL\nCasablanca, Morocco"
+      }
+    }
+  },
+  "footer": {
+    "company": "Company",
+    "productsTitle": "Products",
+    "legal": "Legal",
+    "connect": "Connect",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "refund": "Refund Policy",
+    "rights": "All rights reserved.",
+    "builtWith": "Built with AI in Morocco"
+  },
+  "notFound": {
+    "title": "404",
+    "subtitle": "Page Not Found",
+    "text": "The page you're looking for doesn't exist or has been moved.",
+    "cta": "Back to Home"
+  },
+  "common": {
+    "backToHome": "Back to Home"
+  }
+}

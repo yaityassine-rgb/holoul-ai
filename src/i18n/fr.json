@@ -1,0 +1,348 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "products": "Produits",
+    "pricing": "Tarifs",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Solutions SaaS propulsées par l'IA",
+    "title": "Construire l'avenir des",
+    "titleHighlight": "logiciels intelligents",
+    "subtitle": "Holoul AI développe des produits SaaS de pointe propulsés par l'intelligence artificielle, au service des secteurs juridique, immobilier et sportif dans la région MENA.",
+    "cta": "Découvrir nos produits",
+    "ctaSecondary": "Nous contacter"
+  },
+  "stats": {
+    "products": "Produits IA",
+    "countries": "Pays desservis",
+    "users": "Utilisateurs actifs",
+    "uptime": "Disponibilité"
+  },
+  "products": {
+    "title": "Nos Produits",
+    "subtitle": "Des solutions intelligentes conçues pour les industries qui comptent",
+    "viewAll": "Voir tous les produits",
+    "learnMore": "En savoir plus",
+    "visitProduct": "Visiter le produit",
+    "comingSoon": "Bientôt disponible",
+    "live": "En ligne",
+    "overview": "Aperçu des produits",
+    "overviewSubtitle": "Découvrez notre gamme de produits SaaS propulsés par l'IA, conçus pour transformer les industries de la région MENA.",
+    "myzan": {
+      "name": "Myzan AI",
+      "tagline": "Intelligence juridique propulsée par l'IA",
+      "description": "L'assistant juridique IA le plus complet de la région MENA. Accédez à la législation, la jurisprudence et l'analyse juridique dans plus de 12 pays arabes.",
+      "features": {
+        "title": "Fonctionnalités clés",
+        "f1": "Chat juridique IA — Posez des questions juridiques en arabe, anglais ou français",
+        "f2": "Base de données législative — Plus de 50 000 lois dans 12 pays arabes",
+        "f3": "Recherche jurisprudentielle — Décisions de justice et analyse de la jurisprudence",
+        "f4": "Rédaction de documents — Génération de documents juridiques assistée par l'IA",
+        "f5": "Multi-juridiction — Comparez les lois entre différents pays",
+        "f6": "Mises à jour quotidiennes — Nouvelles législations ajoutées en continu"
+      },
+      "coverage": "Couverture",
+      "coverageDesc": "Bases de données juridiques complètes couvrant le Maroc, l'Arabie saoudite, les EAU, l'Égypte, le Koweït, le Qatar, Bahreïn, Oman, la Jordanie, la Tunisie, l'Algérie et la Libye.",
+      "stats": {
+        "laws": "50 000+ Lois",
+        "countries": "12+ Pays",
+        "languages": "3 Langues"
+      },
+      "cta": "Visiter Myzan AI"
+    },
+    "rawasi": {
+      "name": "Rawasi AI",
+      "tagline": "Intelligence immobilière propulsée par l'IA",
+      "description": "Analyses immobilières intelligentes et intelligence de marché pour le marché immobilier MENA. Des insights basés sur les données pour les investisseurs, promoteurs et agents.",
+      "features": {
+        "title": "Fonctionnalités prévues",
+        "f1": "Analyses de marché — Données et tendances du marché immobilier en temps réel",
+        "f2": "Prédiction de prix — Modèles d'évaluation immobilière propulsés par l'IA",
+        "f3": "Score d'investissement — Analyse du rendement ajusté au risque",
+        "f4": "Rapports de marché — Rapports d'intelligence de marché automatisés",
+        "f5": "Gestion de portefeuille — Suivez et optimisez les portefeuilles immobiliers",
+        "f6": "Conformité réglementaire — Restez informé des réglementations immobilières"
+      },
+      "stats": {
+        "markets": "6+ Marchés",
+        "dataPoints": "1M+ Points de données",
+        "accuracy": "95% Précision"
+      },
+      "cta": "Bientôt disponible"
+    },
+    "tactiq": {
+      "name": "TACTIQ",
+      "tagline": "Intelligence football propulsée par l'IA",
+      "description": "Plateforme d'analyse de football avancée combinant IA et analyse tactique. Suivi de performance, prédiction de matchs et intelligence de recrutement.",
+      "features": {
+        "title": "Fonctionnalités prévues",
+        "f1": "Analyse de matchs — Analyse tactique propulsée par l'IA",
+        "f2": "Recrutement de joueurs — Évaluation et comparaison basées sur les données",
+        "f3": "Suivi de performance — Métriques joueurs et équipes en temps réel",
+        "f4": "Moteur de prédiction — Prédictions de résultats et scores de matchs",
+        "f5": "Tableau tactique — Planification interactive des formations et stratégies",
+        "f6": "Analyses de ligue — Données complètes des ligues et tournois"
+      },
+      "stats": {
+        "leagues": "20+ Ligues",
+        "players": "100K+ Joueurs",
+        "matches": "50K+ Matchs"
+      },
+      "cta": "Bientôt disponible"
+    }
+  },
+  "mission": {
+    "title": "Notre Mission",
+    "text": "Démocratiser l'accès aux outils propulsés par l'IA dans la région MENA, rendant l'intelligence professionnelle accessible à tous."
+  },
+  "about": {
+    "title": "À propos de Holoul AI",
+    "subtitle": "Pionnier des solutions IA pour la région MENA",
+    "story": {
+      "title": "Notre Histoire",
+      "p1": "Holoul AI (حلول AI — signifiant 'Solutions IA' en arabe) a été fondée en 2024 à Casablanca, au Maroc, avec une mission claire : construire des produits logiciels intelligents au service des besoins uniques du monde arabophone.",
+      "p2": "Nous avons constaté que de nombreuses industries de la région MENA n'avaient pas accès à des outils IA conçus pour leurs cadres juridiques, langues et pratiques commerciales spécifiques. Notre équipe a décidé de changer cela.",
+      "p3": "En commençant par Myzan AI — notre plateforme phare d'intelligence juridique — nous avons prouvé que des produits IA de classe mondiale peuvent être construits pour et depuis la région MENA. Nous nous étendons maintenant à l'immobilier avec Rawasi AI et à l'analyse sportive avec TACTIQ."
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "v1": { "title": "Innovation", "desc": "Nous repoussons les limites de ce que l'IA peut faire pour les marchés sous-desservis." },
+      "v2": { "title": "Accessibilité", "desc": "Les outils professionnels doivent être accessibles à tous, pas seulement aux grandes entreprises." },
+      "v3": { "title": "Localisation", "desc": "Nous construisons des produits en arabe d'abord, en respectant les nuances culturelles et linguistiques." },
+      "v4": { "title": "Intégrité", "desc": "Nous traitons les données sensibles avec le plus grand soin et la plus grande transparence." }
+    },
+    "company": {
+      "title": "Informations sur l'entreprise",
+      "name": "Holoul AI SARL",
+      "location": "Casablanca, Maroc",
+      "founded": "Fondée en 2024",
+      "email": "contact@holoul.ai"
+    }
+  },
+  "pricing": {
+    "title": "Tarifs",
+    "subtitle": "Tarification transparente pour tous nos produits",
+    "monthly": "Mensuel",
+    "yearly": "Annuel",
+    "save": "Économisez 20%",
+    "perMonth": "/mois",
+    "perYear": "/an",
+    "getStarted": "Commencer",
+    "currentPlan": "Plan actuel",
+    "popular": "Le plus populaire",
+    "myzan": {
+      "free": {
+        "name": "Gratuit",
+        "price": "0",
+        "desc": "Explorez la plateforme",
+        "f1": "5 requêtes IA par jour",
+        "f2": "Recherche législative basique",
+        "f3": "Base de données d'1 pays",
+        "f4": "Support communautaire"
+      },
+      "pro": {
+        "name": "Professionnel",
+        "price": "29",
+        "priceYearly": "278",
+        "desc": "Pour les avocats praticiens",
+        "f1": "Requêtes IA illimitées",
+        "f2": "Base de données législative complète",
+        "f3": "Tous les 12+ pays",
+        "f4": "Accès à la jurisprudence",
+        "f5": "Rédaction de documents",
+        "f6": "Support prioritaire"
+      },
+      "enterprise": {
+        "name": "Entreprise",
+        "price": "Sur mesure",
+        "desc": "Pour les cabinets et organisations",
+        "f1": "Tout dans Professionnel",
+        "f2": "Intégrations personnalisées",
+        "f3": "Gestionnaire de compte dédié",
+        "f4": "Garantie SLA",
+        "f5": "Gestion d'équipe",
+        "f6": "Accès API"
+      }
+    },
+    "faq": {
+      "title": "Questions fréquemment posées",
+      "q1": { "q": "Offrez-vous un essai gratuit ?", "a": "Oui ! Myzan AI offre un essai gratuit de 14 jours sur le plan Professionnel. Aucune carte de crédit requise." },
+      "q2": { "q": "Quels modes de paiement acceptez-vous ?", "a": "Nous acceptons toutes les cartes de crédit majeures, PayPal et les virements bancaires pour les plans Entreprise." },
+      "q3": { "q": "Puis-je annuler à tout moment ?", "a": "Absolument. Vous pouvez annuler votre abonnement à tout moment. Consultez notre politique de remboursement pour plus de détails." },
+      "q4": { "q": "Offrez-vous des réductions pour la facturation annuelle ?", "a": "Oui, la facturation annuelle vous fait économiser 20% par rapport à la facturation mensuelle." },
+      "q5": { "q": "Y a-t-il une réduction étudiant ou académique ?", "a": "Oui, nous offrons 50% de réduction pour les étudiants vérifiés et les institutions académiques. Contactez-nous pour plus de détails." }
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous serions ravis de vous entendre",
+    "form": {
+      "name": "Votre nom",
+      "email": "Votre email",
+      "subject": "Sujet",
+      "message": "Votre message",
+      "send": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "success": "Message envoyé avec succès ! Nous vous répondrons bientôt.",
+      "subjects": {
+        "general": "Demande générale",
+        "sales": "Ventes et tarifs",
+        "support": "Support technique",
+        "partnership": "Partenariat",
+        "press": "Presse et médias"
+      }
+    },
+    "info": {
+      "title": "Nous joindre",
+      "email": "Email",
+      "address": "Adresse",
+      "addressValue": "Casablanca, Maroc",
+      "hours": "Heures d'ouverture",
+      "hoursValue": "Lundi - Vendredi, 9h00 - 18h00 (GMT+1)"
+    }
+  },
+  "terms": {
+    "title": "Conditions d'utilisation",
+    "lastUpdated": "Dernière mise à jour : Mars 2026",
+    "sections": {
+      "s1": {
+        "title": "1. Acceptation des conditions",
+        "content": "En accédant ou en utilisant les services fournis par Holoul AI SARL ('Société', 'nous'), y compris Myzan AI, Rawasi AI et TACTIQ (collectivement 'Services'), vous acceptez d'être lié par ces Conditions d'utilisation."
+      },
+      "s2": {
+        "title": "2. Description des services",
+        "content": "Holoul AI fournit des produits SaaS propulsés par l'IA :\n\n• Myzan AI : Plateforme d'intelligence et de recherche juridique\n• Rawasi AI : Plateforme d'intelligence du marché immobilier\n• TACTIQ : Plateforme d'analyse et d'intelligence football\n\nLes services sont fournis sur la base d'un abonnement et peuvent inclure des niveaux gratuits avec des fonctionnalités limitées."
+      },
+      "s3": {
+        "title": "3. Comptes utilisateurs",
+        "content": "Vous devez fournir des informations exactes et complètes lors de la création d'un compte. Vous êtes responsable du maintien de la confidentialité de vos identifiants et de toutes les activités sous votre compte. Vous devez avoir au moins 18 ans pour utiliser nos Services."
+      },
+      "s4": {
+        "title": "4. Conditions de paiement",
+        "content": "Les abonnements payants sont facturés à l'avance sur une base mensuelle ou annuelle. Tous les frais sont non remboursables sauf dans les cas spécifiés dans notre Politique de remboursement. Nous nous réservons le droit de modifier les prix avec un préavis de 30 jours."
+      },
+      "s5": {
+        "title": "5. Utilisation acceptable",
+        "content": "Vous acceptez de ne pas : (a) utiliser les Services à des fins illégales ; (b) tenter d'accéder sans autorisation à nos systèmes ; (c) reproduire, distribuer ou créer des œuvres dérivées de notre contenu ; (d) utiliser des systèmes automatisés au-delà de l'utilisation normale ; (e) partager les identifiants de compte avec des tiers."
+      },
+      "s6": {
+        "title": "6. Propriété intellectuelle",
+        "content": "Tous les contenus, fonctionnalités et fonctions de nos Services sont la propriété de Holoul AI SARL et sont protégés par les lois internationales sur les droits d'auteur, les marques et la propriété intellectuelle."
+      },
+      "s7": {
+        "title": "7. Limitation de responsabilité",
+        "content": "Dans toute la mesure permise par la loi, Holoul AI ne sera pas responsable des dommages indirects, accessoires, spéciaux, consécutifs ou punitifs découlant de votre utilisation des Services."
+      },
+      "s8": {
+        "title": "8. Résiliation",
+        "content": "Nous pouvons résilier ou suspendre votre compte à tout moment pour violation de ces Conditions. Vous pouvez annuler votre compte à tout moment via les paramètres de votre compte."
+      },
+      "s9": {
+        "title": "9. Droit applicable",
+        "content": "Ces Conditions sont régies par et interprétées conformément aux lois du Royaume du Maroc. Tout litige sera soumis à la juridiction exclusive des tribunaux de Casablanca, Maroc."
+      },
+      "s10": {
+        "title": "10. Contact",
+        "content": "Pour toute question concernant ces Conditions, contactez-nous à : contact@holoul.ai\n\nHoloul AI SARL\nCasablanca, Maroc"
+      }
+    }
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour : Mars 2026",
+    "sections": {
+      "s1": {
+        "title": "1. Informations que nous collectons",
+        "content": "Nous collectons les informations que vous fournissez directement : nom, adresse email, informations de paiement et données d'utilisation. Nous collectons également des données techniques incluant l'adresse IP, le type de navigateur, les informations de l'appareil et les cookies."
+      },
+      "s2": {
+        "title": "2. Comment nous utilisons vos informations",
+        "content": "Nous utilisons les informations collectées pour : fournir et maintenir nos Services ; traiter les paiements ; envoyer des mises à jour et des communications marketing (avec consentement) ; améliorer nos produits ; respecter les obligations légales ; et prévenir la fraude."
+      },
+      "s3": {
+        "title": "3. Stockage et sécurité des données",
+        "content": "Vos données sont stockées sur des serveurs sécurisés avec chiffrement au repos et en transit. Nous mettons en œuvre des mesures de sécurité standard incluant le chiffrement SSL/TLS, les contrôles d'accès et les audits de sécurité réguliers."
+      },
+      "s4": {
+        "title": "4. Partage des données",
+        "content": "Nous ne vendons pas vos données personnelles. Nous pouvons partager des données avec : les processeurs de paiement (pour les transactions) ; les fournisseurs d'infrastructure cloud (pour l'hébergement) ; les services d'analyse (données agrégées et anonymisées) ; et les forces de l'ordre (lorsque légalement requis)."
+      },
+      "s5": {
+        "title": "5. Vos droits",
+        "content": "Vous avez le droit de : accéder à vos données personnelles ; corriger les données inexactes ; demander la suppression de vos données ; exporter vos données dans un format portable ; vous désabonner des communications marketing ; et retirer votre consentement à tout moment."
+      },
+      "s6": {
+        "title": "6. Cookies",
+        "content": "Nous utilisons des cookies essentiels pour l'authentification et les préférences, et des cookies analytiques optionnels pour améliorer nos Services."
+      },
+      "s7": {
+        "title": "7. Transferts internationaux de données",
+        "content": "Vos données peuvent être transférées et traitées dans des pays en dehors de votre pays de résidence. Nous assurons des garanties appropriées pour tous les transferts internationaux de données."
+      },
+      "s8": {
+        "title": "8. Confidentialité des enfants",
+        "content": "Nos Services ne sont pas destinés aux utilisateurs de moins de 18 ans. Nous ne collectons pas sciemment des informations personnelles auprès d'enfants."
+      },
+      "s9": {
+        "title": "9. Modifications de cette politique",
+        "content": "Nous pouvons mettre à jour cette Politique de confidentialité de temps à autre. Nous vous informerons des changements significatifs par email ou via nos Services."
+      },
+      "s10": {
+        "title": "10. Contact",
+        "content": "Pour les demandes relatives à la confidentialité, contactez notre Délégué à la protection des données à : contact@holoul.ai\n\nHoloul AI SARL\nCasablanca, Maroc"
+      }
+    }
+  },
+  "refund": {
+    "title": "Politique de remboursement",
+    "lastUpdated": "Dernière mise à jour : Mars 2026",
+    "sections": {
+      "s1": {
+        "title": "1. Essai gratuit",
+        "content": "Tous les nouveaux utilisateurs sont éligibles à un essai gratuit de 14 jours sur nos plans Professionnels. Aucune carte de crédit n'est requise pour commencer l'essai."
+      },
+      "s2": {
+        "title": "2. Abonnements mensuels",
+        "content": "Pour les abonnements mensuels, vous pouvez demander un remboursement complet dans les 7 jours suivant votre achat initial ou renouvellement. Après 7 jours, aucun remboursement ne sera émis pour la période de facturation en cours."
+      },
+      "s3": {
+        "title": "3. Abonnements annuels",
+        "content": "Pour les abonnements annuels, vous pouvez demander un remboursement complet dans les 30 jours suivant votre achat initial. Après 30 jours, nous fournirons un remboursement au prorata des mois restants non utilisés sur demande."
+      },
+      "s4": {
+        "title": "4. Comment demander un remboursement",
+        "content": "Pour demander un remboursement, contactez-nous à contact@holoul.ai avec l'email de votre compte et la raison du remboursement. Nous visons à traiter toutes les demandes de remboursement dans les 5 à 10 jours ouvrables."
+      },
+      "s5": {
+        "title": "5. Exceptions",
+        "content": "Les remboursements ne seront pas émis en cas de : violation de nos Conditions d'utilisation ; activité frauduleuse ; abus de la politique de remboursement ; ou rétrofacturations initiées sans nous contacter d'abord."
+      },
+      "s6": {
+        "title": "6. Contact",
+        "content": "Pour les demandes de remboursement, contactez-nous à : contact@holoul.ai\n\nHoloul AI SARL\nCasablanca, Maroc"
+      }
+    }
+  },
+  "footer": {
+    "company": "Entreprise",
+    "productsTitle": "Produits",
+    "legal": "Juridique",
+    "connect": "Connexion",
+    "terms": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité",
+    "refund": "Politique de remboursement",
+    "rights": "Tous droits réservés.",
+    "builtWith": "Construit avec l'IA au Maroc"
+  },
+  "notFound": {
+    "title": "404",
+    "subtitle": "Page non trouvée",
+    "text": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "cta": "Retour à l'accueil"
+  },
+  "common": {
+    "backToHome": "Retour à l'accueil"
+  }
+}
